@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marwan</h1>
 <h3 align="center">A passionate frontend developer from egypt</h3>
 
-- 🌱 I’m currently learning **js/flutter**
+- 🌱 I’m currently learning **js/vue**
 
 - 📫 How to reach me **marwanmaher635@gmail.com**
 
